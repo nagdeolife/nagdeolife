@@ -3,6 +3,6 @@
 - 🌱 I’ve been working on a Ruby program to embed index tags into LaTeX files.
 
 <!---
-vivianunger/nagdeolife is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vivianunger/defaultrep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
